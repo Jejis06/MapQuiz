@@ -1,3 +1,3 @@
-# app
+# QuizApp
 
-A new Flutter project.
+Na razie puste jak bedzie czas to cos tutaj sie wrzuci
